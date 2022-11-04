@@ -1,0 +1,11 @@
+GET http://localhost:8081/predict
+Accept: application/json
+
+{
+ "OverallQual": 8,
+"GrLivArea": 1710,
+"TotalBsmtSF": 856,
+"BsmtFinSF1": 706,
+"GarageArea": 548
+}
+
